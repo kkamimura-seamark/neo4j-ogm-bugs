@@ -1,0 +1,10 @@
+bin
+.settings
+.gradle
+.project
+.classpath
+bin
+build
+.springBeans
+.vagrant
+dist
